@@ -147,7 +147,7 @@ ${flag ? `<p style="color:#b3261e">Spam check: ${esc(why.join(', '))}</p>` : ''}
             to: b.email, replyTo: REPLY_TO,
             subject: 'We received your appraisal request — LA Value Pro',
             html: shell('We received your request', `<p>Hi ${esc(b.name.split(' ')[0])},</p>
-<p>Thank you for your appraisal request through <strong>lavaluepro.com</strong>. Brian will review the property and email a confirmation with a secure invoice within one business day. The report is typically delivered 5–7 business days after payment.</p>
+<p>Thank you for your appraisal request through <strong>lavaluepro.com</strong>. Brian will review the property and email a confirmation with a secure invoice within one business day. The report is delivered in 3+ business days.</p>
 <table style="width:100%;border-collapse:collapse;background:#f6f3fc">${rows(details)}</table>
 <p style="margin-top:22px">Thank you,<br><strong>Brian Ward</strong><br>California Certified Residential Real Estate Appraiser, License AR036053<br>LA Value Pro &middot; contact@lavaluepro.com</p>
 <p style="color:#888;font-size:13px">This automatic confirmation means your request arrived; there is no need to submit it again. Reply to this email with any questions.</p>`),
