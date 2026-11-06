@@ -328,5 +328,11 @@
   "path": "public/images/regions/long-beach-3.jpg",
   "w": 1600,
   "h": 700
+ },
+ {
+  "prompt": "Hillside cottages and homes above the harbor in Avalon on Santa Catalina Island, California, boats in the bay, clear day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/long-beach-4.jpg",
+  "w": 1600,
+  "h": 700
  }
 ]
