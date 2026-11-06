@@ -1,0 +1,332 @@
+[
+ {
+  "prompt": "Panoramic view over Los Angeles neighborhoods toward the downtown skyline at golden hour with palm trees silhouetted Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/og-photo.jpg",
+  "w": 1200,
+  "h": 630
+ },
+ {
+  "prompt": "Los Angeles neighborhood of single-family homes under jacaranda trees in purple bloom with the San Gabriel Mountains in the distance, clear spring morning Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/home-la.jpg",
+  "w": 1600,
+  "h": 900
+ },
+ {
+  "prompt": "Laptop on a tidy desk showing a map and charts next to a printed report and reading glasses, soft window light, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/desktop-appraisals.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Desk with an organized folder of real estate documents, a pen, and a cup of coffee near a sunny window, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/process.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Neatly arranged desk with a calculator, a closed report binder, and a small house model, calm neutral tones, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/fees.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Wide view of the Los Angeles basin from the hills at golden hour, neighborhoods stretching to the downtown skyline and the ocean Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/areas.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Appraiser's workspace with a measuring wheel, clipboard, and camera on a table beside a window, no people, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/about.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Open notebook and a stack of documents on a kitchen table in a sunny Los Angeles home with a plant in the background, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/guides.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Peaceful Los Angeles residential street lined with jacaranda trees in purple bloom, morning light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/faq.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Bright home office corner with a window view of palm trees, a laptop and notepad on the desk, no readable text Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/pages/contact.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Quiet 1950s single-family home in Los Angeles County with a mature tree in the front yard, soft morning light, calm and dignified Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/date-of-death.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Classic Southern California ranch house with a well-tended garden, bright afternoon Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/step-up-in-basis.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Traditional two-story family home with a front porch and mature landscaping in a Los Angeles suburb, warm light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/trust-administration.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Elegant older Spanish Revival home with an arched entry and red tile roof in Los Angeles, clear day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/estate-settlement.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Charming bungalow with a front porch and garden path in a Los Angeles neighborhood, golden hour Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/gift-tax.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Modest mid-century family home in a Los Angeles suburb with a lemon tree in the yard, sunny Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/prop-19.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Two-story contemporary suburban home in Los Angeles County, neutral daylight, clean composition Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/divorce.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Inviting family home with a front lawn and a jacaranda tree in purple bloom in Los Angeles, bright day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/family-sale.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Los Angeles neighborhood street of 1960s homes photographed with warm, slightly faded tones suggesting an earlier era Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/services/retrospective.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Spanish Colonial Revival and modern homes on a palm-lined residential street in Santa Monica, California, bright marine-layer morning light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/westside-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Aerial view of the Westside of Los Angeles toward the Pacific Ocean, dense single-family neighborhoods under a green tree canopy, clear day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/westside-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Contemporary hillside homes above the Pacific Coast Highway in Malibu, California, ocean in the background, late afternoon Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/westside-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Restored Craftsman and Victorian houses on a tree-lined street in the West Adams historic district of Los Angeles, warm afternoon light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-la-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Mid-century modern homes on curving hillside streets in the Baldwin Hills of Los Angeles with distant city views, clear sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-la-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Well-kept 1920s Spanish-style bungalows on a quiet Los Angeles residential street with jacaranda trees in bloom Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-la-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "1920s Spanish Revival homes stepping up a hillside street in Silver Lake, Los Angeles, with bougainvillea and a city view Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/central-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Modern hillside homes in the Hollywood Hills at golden hour overlooking the Los Angeles basin Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/central-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Downtown Los Angeles residential high-rise condominium towers beside historic loft buildings, clear blue sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/central-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Single-family homes on a level tree-lined street in Burbank, California, with the Verdugo Mountains behind, clear morning Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/foothills-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Ranch and traditional homes on sloped foothill streets in La Crescenta, California, with the San Gabriel Mountains as a backdrop Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/foothills-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Glendale, California residential neighborhood of 1920s and 1950s homes with mature oak trees, sunny day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/foothills-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Aerial view of San Fernando Valley neighborhoods of 1950s ranch homes with backyard swimming pools, mountains on the horizon Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/valley-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Mid-century ranch-style home with a low-pitched roof and front lawn in Sherman Oaks, California, bright day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/valley-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Hillside homes with lush landscaping south of Ventura Boulevard in Studio City, California, clear sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/valley-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Master-planned neighborhood of two-story stucco homes with tile roofs in Valencia, California, golden hills behind Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/santa-clarita-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Upscale homes among oak trees and rolling hills in Calabasas, California, late afternoon light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/santa-clarita-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Lakeside homes in Westlake Village, California, with the lake and the Santa Monica Mountains, calm morning Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/santa-clarita-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Suburban subdivision of stucco tract homes in Lancaster, California, under a wide high-desert sky with mountains in the distance Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/antelope-valley-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Palmdale, California residential street with drought-tolerant front yards and two-story homes, clear desert light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/antelope-valley-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Aerial view of Antelope Valley city neighborhoods with orderly streets and the San Gabriel Mountains beyond Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/antelope-valley-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Classic Craftsman bungalow with a deep front porch on a tree-lined street in Pasadena, California, soft morning light Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-west-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Elegant traditional estate homes with manicured lawns and mature trees in San Marino, California Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-west-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Neighborhood of homes beneath the San Gabriel Mountains in the western San Gabriel Valley, clear day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-west-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Tree-shaded college-town street of older homes in Claremont, California, clear afternoon Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-east-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Hillside view homes in Diamond Bar, California, with green slopes and blue sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-east-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "1960s suburban tract homes with front lawns in Covina, California, with the San Gabriel Mountains in the background Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/sgv-east-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Post-war single-story tract homes with front lawns on a straight street in Lakewood, California, sunny Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/gateway-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Mid-century homes on a quiet residential street in Downey, California, with palm trees, clear sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/gateway-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "1940s and 1950s bungalows on a neat residential block in Whittier, California, with hills in the background Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/gateway-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Beach cottages and modern homes on a pedestrian walk street leading to the ocean in Manhattan Beach, California, bright day Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-bay-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Ocean-view homes on the bluffs of the Palos Verdes Peninsula overlooking the Pacific, clear afternoon Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-bay-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Mid-century single-family homes with front lawns on a tidy street in Torrance, California, sunny Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/south-bay-3.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Craftsman and Spanish bungalows on a street in Belmont Shore, Long Beach, California, near the beach, sunny Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/long-beach-1.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Waterfront homes along the canals of Naples in Long Beach, California, calm water, clear sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/long-beach-2.jpg",
+  "w": 1600,
+  "h": 700
+ },
+ {
+  "prompt": "Hillside homes overlooking the harbor in San Pedro, California, blue sky Photorealistic real-estate photography, natural light, true-to-life color, high detail, no people in the foreground, no text, no watermark, no logos, no readable signage.",
+  "path": "public/images/regions/long-beach-3.jpg",
+  "w": 1600,
+  "h": 700
+ }
+]

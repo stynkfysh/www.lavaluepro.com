@@ -1,0 +1,8 @@
+https://www.lavaluepro.com/* https://lavaluepro.com/:splat 301!
+/home / 301
+/index /  301
+/pricing /fees 301
+/how-it-works /process 301
+/service-areas /areas/ 301
+/services /appraisals/ 301
+/services/* /appraisals/:splat 301
